@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.7"
     },
     "files": [
         "main.blocks",
